@@ -1,4 +1,4 @@
-/* The Metron - Industry and Factory HTML Template */
+﻿/* The Metron - Industry and Factory HTML Template */
 
 /************ TABLE OF CONTENTS ***************
 1. Fonts
@@ -3730,6 +3730,7 @@ img{
 }
 
 .services-block-two .inner-box .upper-box h3{
+    min-height: 50px;
 	position: relative;
     font-size: 18px;
     font-weight: 500;
@@ -3777,6 +3778,7 @@ img{
 }
 
 .services-block-two .inner-box .lower-content .text{
+    min-height: 80px;
 	position:relative;
 	color:#848484;
 	font-size:16px;
