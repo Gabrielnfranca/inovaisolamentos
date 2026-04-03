@@ -11785,3 +11785,39 @@ img{
 
 
 
+
+/* Theme Btn Green Custom for Main Slider */
+.theme-btn.btn-style-green {
+        position:relative;
+        line-height:24px;
+        color:#ffffff;
+        font-size:14px;
+        font-weight:600;
+        background:#28a745;
+        display:inline-block;
+        padding:13px 32px;
+        border-radius:50px;
+        letter-spacing:1px;
+        text-transform:uppercase;
+        border:2px solid #28a745;
+        transition:all 0.3s ease;
+        -moz-transition:all 0.3s ease;
+        -webkit-transition:all 0.3s ease;
+        -ms-transition:all 0.3s ease;
+        -o-transition:all 0.3s ease;
+        font-family: 'Poppins', sans-serif;
+}
+
+.theme-btn.btn-style-green .icon {
+        position:relative;
+        top:2px;
+        font-size:18px;
+        margin-right:4px;
+        margin-left:0px;
+}
+
+.theme-btn.btn-style-green:hover {
+        color:#28a745;
+        border-color:#28a745;
+        background:none;
+}
